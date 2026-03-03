@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+      <title>Basketball Stars</title>
+      <style>
+          body { 
+              background: #0a0a0a; 
+              color: white; 
+              font-family: sans-serif; 
+              margin: 0; 
+              display: flex; 
+              flex-direction: column; 
+              align-items: center; 
+              justify-content: center; 
+              min-height: 100vh;
+              overflow: hidden;
+          }
+          .controls {
+              margin-bottom: 10px;
+              display: flex;
+              gap: 20px;
+              align-items: center;
+              z-index: 100;
+          }
+          a, button {
+              background: #10b981;
+              color: black;
+              border: none;
+              padding: 10px 20px;
+              border-radius: 8px;
+              text-decoration: none;
+              font-weight: bold;
+              cursor: pointer;
+              font-size: 1.2rem;
+              transition: transform 0.2s;
+          }
+          a:hover, button:hover {
+              transform: scale(1.05);
+              background: #34d399;
+          }
+          iframe {
+              border-radius: 12px;
+              box-shadow: 0 0 50px rgba(0,0,0,0.5);
+              background: #000;
+          }
+      </style>
+  </head>
+<body onload='focus()'>
+    <div class="controls">
+         <a href="/">Back To Home Page</a>
+         <button onclick="openFullscreen('518929564')">Fullscreen Mode</button>      
+    </div>
+
+    <iframe style='height: 85vh; width: 95vw;' scrolling="no" frameborder="0" id="518929564" allowtransparency="true" 
+            src="zBasketBallStarts.html"></iframe>
+
+    <script>
+    function focus() {
+        const frame = document.getElementById('518929564');
+        if (frame) {
+            frame.focus();
+            // Try to focus the inner frame as well
+            try {
+                frame.contentWindow.focus();
+            } catch(e) {}
+        }
+    }
+
+    function openFullscreen(id) {
+        var elem = document.getElementById(id);
+        if (elem.requestFullscreen) {
+            elem.requestFullscreen();
+        } else if (elem.webkitRequestFullscreen) { /* Safari */
+            elem.webkitRequestFullscreen();
+        } else if (elem.msRequestFullscreen) { /* IE11 */
+            elem.msRequestFullscreen();
+        }
+    }
+
+    // Auto-focus on click
+    document.body.onclick = focus;
+    </script>
+</body>
+</html>

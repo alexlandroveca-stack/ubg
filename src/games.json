@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "url": "https://play2048.co/",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "thumbnail": "https://picsum.photos/seed/hextris/400/300",
+    "url": "https://hextris.io/",
+    "description": "Fast-paced puzzle game inspired by Tetris."
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird Clone",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "url": "https://flappybird.io/",
+    "description": "The classic addictive bird-flapping game."
+  },
+  {
+    "id": "snake",
+    "title": "Snake",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "description": "Classic Snake game (Pacman 30th Anniversary version used as placeholder)."
+  },
+  {
+    "id": "paper-io",
+    "title": "Paper.io 2",
+    "thumbnail": "https://picsum.photos/seed/paperio/400/300",
+    "url": "https://paper-io.com/",
+    "description": "Capture as much territory as possible."
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "thumbnail": "https://picsum.photos/seed/slope/400/300",
+    "url": "https://slopegame.online/",
+    "description": "Speed down the slope in this endless runner."
+  },
+  {
+    "id": "basketball-stars",
+    "title": "Basketball Stars",
+    "thumbnail": "https://picsum.photos/seed/basketball/400/300",
+    "url": "/basketball-stars-wrapper.html",
+    "description": "Show off your basketball skills in this competitive sports game."
+  }
+]
