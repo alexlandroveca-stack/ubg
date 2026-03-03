@@ -45,7 +45,84 @@
     "id": "basketball-stars",
     "title": "Basketball Stars",
     "thumbnail": "https://picsum.photos/seed/basketball/400/300",
-    "url": "/basketball-stars-wrapper.html",
+    "url": "https://study55.space/classroom/lesson-29/",
     "description": "Show off your basketball skills in this competitive sports game."
+  },
+  {
+    "id": "basket-random",
+    "title": "Basket Random",
+    "thumbnail": "https://picsum.photos/seed/basketrandom/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/driving-games/basket-random/",
+    "description": "A fun and wacky basketball game with random physics."
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "thumbnail": "https://picsum.photos/seed/retrobowl/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/driving-games/retro-bowl/",
+    "description": "Manage your team and lead them to glory in this retro-style football game."
+  },
+  {
+    "id": "madalin-stunt-cars",
+    "title": "Madalin Stunt Cars",
+    "thumbnail": "https://picsum.photos/seed/stuntcars/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/driving-games/madalin-stunt-cars-2/",
+    "description": "Perform amazing stunts and drive fast cars in this open-world simulator."
+  },
+  {
+    "id": "baldis-basics",
+    "title": "Baldis Basics",
+    "thumbnail": "https://picsum.photos/seed/baldi/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/casual-games/baldis-basics/",
+    "description": "A surreal educational horror game where you must escape the school."
+  },
+  {
+    "id": "bob-the-robber-2",
+    "title": "Bob the Robber 2",
+    "thumbnail": "https://picsum.photos/seed/bobrobber/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/action-games/bobtherobber2/",
+    "description": "Help Bob the Robber complete his missions and avoid getting caught."
+  },
+  {
+    "id": "clicker-heroes",
+    "title": "Clicker Heroes",
+    "thumbnail": "https://picsum.photos/seed/clicker/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/casual-games/clicker-heroes/",
+    "description": "The epic idle clicker game."
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "thumbnail": "https://picsum.photos/seed/bitlife/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/strategy-games/bitlife/",
+    "description": "Live your life how you want in this text-based simulator."
+  },
+  {
+    "id": "football-legends",
+    "title": "Football Legends",
+    "thumbnail": "https://picsum.photos/seed/football/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/driving-games/football-legends/",
+    "description": "Play as your favorite football legends."
+  },
+  {
+    "id": "parking-fury",
+    "title": "Parking Fury",
+    "thumbnail": "https://picsum.photos/seed/parking/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/driving-games/parking-fury/",
+    "description": "Test your parking skills in various challenging levels."
+  },
+  {
+    "id": "big-shot-boxing",
+    "title": "Big Shot Boxing",
+    "thumbnail": "https://picsum.photos/seed/boxing/400/300",
+    "url": "https://4yqt7wrhtx-ship-it.github.io/driving-games/big-shot-boxing/",
+    "description": "Climb the ranks and become the boxing champion."
+  },
+  {
+    "id": "retro-highway",
+    "title": "Retro Highway",
+    "thumbnail": "https://picsum.photos/seed/highway/400/300",
+    "url": "https://cdn-json.us/g/load/retro-highway/index.html",
+    "description": "High-speed motorcycle racing with retro graphics."
   }
 ]
