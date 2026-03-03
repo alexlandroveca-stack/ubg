@@ -6,8 +6,20 @@
   --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
 }
 
-body {
-  @apply bg-zinc-950 text-zinc-100 font-sans antialiased;
+/* 🚀 THE SCROLLING FIX 🚀 */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: auto !important; /* Allows the page to be as long as the games list */
+  min-height: 100vh;
+  overflow-y: auto !important; /* Forces the scrollbar to appear */
+  background-color: #09090b; /* Dark background */
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
 }
 
 .glass {
